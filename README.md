@@ -1,29 +1,31 @@
-![Web Developer](https://w0.peakpx.com/wallpaper/787/387/HD-wallpaper-code-programming-it-technology-dual-wide-background-code-programmer.jpg)
+![Web Developer Banner](https://w0.peakpx.com/wallpaper/787/387/HD-wallpaper-code-programming-it-technology-dual-wide-background-code-programmer.jpg)
 
+### Hi there, I'm Md. Emran Hossain 👋
+#### Front End Web Developer
 
-### Hi there 👋, I'm Md.Emran Hossain
-#### Web Developer
+I'm a passionate Front End Web Developer dedicated to crafting error-free websites that ensure 100% client satisfaction. I thrive on learning and sharing knowledge with others and love tackling real-world problems. My approach is strategic and goal-oriented, always aiming for high-quality work and maintaining excellent communication. I primarily work with JavaScript and React, but I'm enthusiastic about exploring new technologies.
 
-I'm a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction.I have a passion for learning and sharing my knowledge with others as publicity as possible. I love to solve real-world prolems. I am strategic, goal-oriented, and always work with an ed goal in mind. Over  the past I created several websites. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with javaScript and React. I enjoy working with other technologies.
+**Skills:** React / JavaScript / HTML / CSS / Tailwind CSS / Node.js / Express.js / MongoDB / Firebase / Git & GitHub
 
-Skills:  REACT / JS / HTML / CSS, Tailwind CSS, NodeJS, ExpressJS, MongoDB,Firebase, Git & GitHub
+- 🔭 I’m currently working on improving my portfolio website.
+- 🌱 I’m currently learning Next.js.
+- 👯 I’m looking to collaborate on GitHub.
+- 💬 Ask me about Web Development.
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning NextJS 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Development 
+### Connect with me:
 
+[<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />](https://github.com/Emrandu1989)
+[<img align="left" alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />](https://www.facebook.com/Emrandu1989)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Emrandu1989)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Emrandu1989)  
+<br />
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Emrandu1989)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emrandu1989&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Emrandu1989&show_icons=true&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emrandu1989&show_icons=true&count_private=true)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Emrandu1989)  
+### GitHub Metrics:
 
-
-
+![GitHub Metrics](https://metrics.lecoq.io/Emrandu1989)
 
