@@ -31,6 +31,7 @@ I'm a passionate Front End Web Developer dedicated to crafting error-free websit
 
 [<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />](https://github.com/Emrandu1989)
 [<img align="left" alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />](https://www.facebook.com/Emrandu1989)
+[<img align="left" alt="In" width="40px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-jz44rpiz.png" />](www.linkedin.com/in/mdemran1989)
 
 <br />
 
